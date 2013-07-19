@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Brian Weather
+Plugin Name: jQuery Weather
 Description: Get the weather of you favorite city!
 Version: 0.1
 Author: Brian Sanders
